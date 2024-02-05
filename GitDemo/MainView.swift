@@ -23,6 +23,11 @@ struct MainView: View {
                 .padding(40)
             Text("jay shree ram!")
 
+            
+            Text("jay shree ram!")
+                .padding(40)
+            Text("jay shree ram!")
+
 
         }
         .padding()
