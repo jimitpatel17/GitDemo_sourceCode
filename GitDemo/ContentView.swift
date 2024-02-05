@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-
+//creating my first gitHub project.
 struct ContentView: View {
     var body: some View {
         VStack {
