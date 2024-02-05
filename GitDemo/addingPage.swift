@@ -10,6 +10,7 @@ import SwiftUI
 struct addingPage: View {
     var body: some View {
         Text("jay hanumanji")
+        Text("hello world!!!")
     }
 }
 
