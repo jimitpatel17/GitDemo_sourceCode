@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		EE1E976E2B7155D800EABA0F /* GitDemoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE1E976D2B7155D800EABA0F /* GitDemoApp.swift */; };
-		EE1E97702B7155D800EABA0F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE1E976F2B7155D800EABA0F /* ContentView.swift */; };
+		EE1E97702B7155D800EABA0F /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE1E976F2B7155D800EABA0F /* MainView.swift */; };
 		EE1E97722B7155DA00EABA0F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE1E97712B7155DA00EABA0F /* Assets.xcassets */; };
 		EE1E97752B7155DA00EABA0F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE1E97742B7155DA00EABA0F /* Preview Assets.xcassets */; };
 		EE1E977F2B7155DA00EABA0F /* GitDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE1E977E2B7155DA00EABA0F /* GitDemoTests.swift */; };
@@ -36,7 +36,7 @@
 /* Begin PBXFileReference section */
 		EE1E976A2B7155D800EABA0F /* GitDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EE1E976D2B7155D800EABA0F /* GitDemoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitDemoApp.swift; sourceTree = "<group>"; };
-		EE1E976F2B7155D800EABA0F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		EE1E976F2B7155D800EABA0F /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 		EE1E97712B7155DA00EABA0F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EE1E97742B7155DA00EABA0F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		EE1E977A2B7155DA00EABA0F /* GitDemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitDemoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -95,7 +95,7 @@
 			isa = PBXGroup;
 			children = (
 				EE1E976D2B7155D800EABA0F /* GitDemoApp.swift */,
-				EE1E976F2B7155D800EABA0F /* ContentView.swift */,
+				EE1E976F2B7155D800EABA0F /* MainView.swift */,
 				EE1E97712B7155DA00EABA0F /* Assets.xcassets */,
 				EE1E97732B7155DA00EABA0F /* Preview Content */,
 			);
@@ -257,7 +257,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EE1E97702B7155D800EABA0F /* ContentView.swift in Sources */,
+				EE1E97702B7155D800EABA0F /* MainView.swift in Sources */,
 				EE1E976E2B7155D800EABA0F /* GitDemoApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
