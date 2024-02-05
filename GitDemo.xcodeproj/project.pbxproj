@@ -14,6 +14,7 @@
 		EE1E977F2B7155DA00EABA0F /* GitDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE1E977E2B7155DA00EABA0F /* GitDemoTests.swift */; };
 		EE1E97892B7155DA00EABA0F /* GitDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE1E97882B7155DA00EABA0F /* GitDemoUITests.swift */; };
 		EE1E978B2B7155DA00EABA0F /* GitDemoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE1E978A2B7155DA00EABA0F /* GitDemoUITestsLaunchTests.swift */; };
+		EE76CF7A2B715ACB00AD74DE /* SingleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE76CF792B715ACB00AD74DE /* SingleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		EE1E97842B7155DA00EABA0F /* GitDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EE1E97882B7155DA00EABA0F /* GitDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitDemoUITests.swift; sourceTree = "<group>"; };
 		EE1E978A2B7155DA00EABA0F /* GitDemoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitDemoUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		EE76CF792B715ACB00AD74DE /* SingleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				EE1E976D2B7155D800EABA0F /* GitDemoApp.swift */,
 				EE1E976F2B7155D800EABA0F /* MainView.swift */,
+				EE76CF792B715ACB00AD74DE /* SingleView.swift */,
 				EE1E97712B7155DA00EABA0F /* Assets.xcassets */,
 				EE1E97732B7155DA00EABA0F /* Preview Content */,
 			);
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EE76CF7A2B715ACB00AD74DE /* SingleView.swift in Sources */,
 				EE1E97702B7155D800EABA0F /* MainView.swift in Sources */,
 				EE1E976E2B7155D800EABA0F /* GitDemoApp.swift in Sources */,
 			);
