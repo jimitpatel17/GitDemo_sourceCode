@@ -7,7 +7,7 @@
 
 import SwiftUI
 //creating my first gitHub project.
-struct ContentView: View {
+struct MainView: View {
     var body: some View {
         VStack {
             Text("jay shree ram!")
@@ -20,5 +20,5 @@ struct ContentView: View {
 }
 
 #Preview {
-    ContentView()
+    MainView()
 }
